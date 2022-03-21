@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": "p1", "title": "Samsumg TV", "description": "55 inches, 4k resolution" },
+    { "id": "p2", "title": "Gaming computer", "description": "Ryzen 9 and rtx 3090" },
+    { "id": "p3", "title": "Audi A3", "description": "135 CV, top quality sound system" },
+    { "id": "p4", "title": "House near the center of Madrid", "description": "With pool, barbeque and big garage" }
+  ]
+}
